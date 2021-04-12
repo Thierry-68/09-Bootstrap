@@ -1,0 +1,23 @@
+:root{
+    --dark:#333;
+    --orange:#ff7f2a;
+    --yellow:#fc0;
+}
+
+.dark{
+    background-color: var(--dark);
+}
+
+.orange{
+    background-color: var(--orange);
+}
+
+.yellow{
+    background-color: var(--yellow);
+}
+
+.container  div{
+    height: 50px;
+    border: 2px solid #FFF;
+}
+
